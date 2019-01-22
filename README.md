@@ -1,0 +1,2 @@
+# deneme
+tekrarlayan values
